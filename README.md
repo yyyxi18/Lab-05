@@ -1,7 +1,5 @@
 # 0515 Lab-05
 
-### Lab-05_1：圖書館資料庫設計
-<img width="882" alt="image" src="https://github.com/user-attachments/assets/74721890-7f3d-4f9c-9731-9c7a581bb5b4" />
-
-### Lab-05_2：線上商店訂單系統
-### Lab-05_3：大學課程註冊系統
+使用的 GAI 為 MyMap AI ，一款專為簡化頭腦風暴和想法展示設計的AI 工具，主要功能為自然語言輸入、自動生成心智圖、即時協作。
+問答方式：
+將作業資訊及繳交要求整理給 MyMap AI ，然後將它生成的內容整理到 Lab-05 的資料夾裡。
